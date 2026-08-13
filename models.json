@@ -3594,7 +3594,8 @@
         "levels": [
           "low",
           "medium",
-          "high"
+          "high",
+          "xhigh"
         ]
       },
       "supportedInputModalities": [
