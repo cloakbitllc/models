@@ -187,7 +187,7 @@
         }
       ],
       "shell_type": "shell_command",
-      "visibility": "hide",
+      "visibility": "list",
       "minimal_client_version": "0.142.2",
       "supported_in_api": false,
       "availability_nux": null,
